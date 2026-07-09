@@ -12,17 +12,9 @@
   <a href="https://josephcoppin.com/">My personal site.</a>
 </p>
 
-<br style="padding: 1rem">
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=revers3ntropy&theme=onedark&no-frame=true&rank=SSS,SS,S,AAA,AA" alt="revers3ntropy" />
-  </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=revers3ntropy&locale=en&layout=compact&langs_count=10" alt="Lang Stats" />
-</p>
+<br style="margin-top: 100px">
+<br style="margin-top: 100px">
+<br style="margin-top: 100px">
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=revers3ntropy&show_icons=true&locale=en" alt="revers3ntropy" />
