@@ -12,6 +12,8 @@
   <a href="https://josephcoppin.com/">My personal site.</a>
 </p>
 
+<br style="padding: 1rem">
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=revers3ntropy&theme=onedark&no-frame=true&rank=SSS,SS,S,AAA,AA" alt="revers3ntropy" />
