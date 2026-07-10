@@ -17,13 +17,5 @@
 <br style="margin-top: 100px">
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=revers3ntropy&show_icons=true&locale=en" alt="revers3ntropy" />
-</p>
-
-<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=revers3ntropy&" alt="Streak" />
-</p>
-
-<p>
-  <a href="https://stackoverflow.com/users/14486998/joseph-coppin"><img src="https://stackoverflow.com/users/flair/14486998.png" width="208" height="58" alt="Stack Overflow"></a>
 </p>
