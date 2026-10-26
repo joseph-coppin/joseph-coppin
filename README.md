@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Joseph Coppin</h1>
 
-<p>Software Engineer and graduate (1st in Computer Science from University of Warwick) with multiple SWE internships (Stripe, AVEVA, JumpTech) and strong full-stack and systems engineering experience.</p>
+<p>Associate Software Engineer at Photon Technologies, and graduate in Computer Science from University of Warwick (1st). Multiple SWE internships (Stripe, AVEVA, JumpTech) and strong full-stack, systems engineering and system design experience.</p>
 
 <p>
   <a href="https://josephcoppin.com/cv-joseph-coppin.pdf">See my CV.</a>
