@@ -17,5 +17,5 @@
 <br style="margin-top: 100px">
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=revers3ntropy&" alt="Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-coppin&" alt="Streak" />
 </p>
